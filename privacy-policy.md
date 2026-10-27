@@ -1,5 +1,7 @@
 # Privacy Policy
 
+Last updated: October 27, 2026, 22:28 CET (UTC+1)
+
 This policy explains what data the invoicing app stores and why.
 
 ## Data the app stores
@@ -31,6 +33,12 @@ We store payment dates so you can see when each invoice was settled.
 ## Data the app does not store
 
 The app does not store card numbers, bank account details, or other payment credentials. It only records that an invoice has been paid.
+
+## Who can see the data
+
+- **You:** only you, the account owner, can see your client details, invoices, and payment dates.
+- **Your clients:** each client sees only the invoices you send to them, not your other clients or invoices.
+- **No one else:** we do not sell your data or share it with third parties.
 
 ## Contact
 
