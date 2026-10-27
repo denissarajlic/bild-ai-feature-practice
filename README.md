@@ -6,6 +6,8 @@ An invoicing app for creating, sending, and tracking invoices.
 
 The app lets you create invoices, send them to clients, and see at a glance which ones are paid, pending, or overdue.
 
+## Features
+
 ## How it works
 
 1. Create an invoice with the client's details, line items, and a due date.
