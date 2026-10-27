@@ -15,3 +15,7 @@ The app lets you create invoices, send them to clients, and see at a glance whic
 ## Who it's for
 
 This app is for freelancers and small businesses who need to bill clients without the overhead of full accounting software. It suits people who want to get invoices out quickly and keep track of which ones have been paid.
+
+## Contact
+
+Questions or feedback? Email Denis at [your-email@example.com](mailto:your-email@example.com).
