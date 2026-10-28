@@ -6,6 +6,7 @@ All prices are in convertible marks (KM) and are billed monthly. You can change 
 | --- | --- | --- |
 | Starter | 15 KM | Freelancers sending a few invoices a month |
 | Pro | 35 KM | Freelancers and small businesses with regular clients |
+| Business | 75 KM | Small businesses with a team that bills clients |
 
 ## Starter: 15 KM per month
 
@@ -18,6 +19,11 @@ All prices are in convertible marks (KM) and are billed monthly. You can change 
 - Unlimited invoices
 - Unlimited clients
 - Everything in Starter
+
+## Business: 75 KM per month
+
+- Up to 5 team members on one account
+- Everything in Pro
 
 ## Questions
 
