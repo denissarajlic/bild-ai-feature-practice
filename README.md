@@ -1,4 +1,4 @@
-# bild-ai-feature-practice
+# Invoice-Maker: create custom invoices to your own liking
 
 An invoicing app for creating, sending, and tracking invoices.
 
