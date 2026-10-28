@@ -1,4 +1,4 @@
-# bild-ai-feature-practice
+# Invoice-Creator: invoices in one minute
 
 An invoicing app for creating, sending, and tracking invoices.
 
